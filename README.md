@@ -22,7 +22,7 @@
 
 ## Tools
 
-- [wg-make](https://github.com/tevino/wg-make) - A tool to help to set up WireGuard based networks. Currently, it generates configurations for peers according to a single configuration file.
+- [wg-make](https://github.com/tevino/wg-make) - A tool to help set up WireGuard based networks. Currently, it generates configurations for peers according to a single configuration file.
 
 ## Contribute
 
