@@ -6,6 +6,7 @@
 
 - [Documentation](#documentation)
 - [Tutorials](#tutorials)
+- [Tools](#tools)
 
 ## Documentation
 
@@ -18,6 +19,10 @@
 
 - [Quick Start](https://www.wireguard.com/quickstart/) - Official Quick Start
 - [How to easily configure WireGuard](https://www.stavros.io/posts/how-to-configure-wireguard/)
+
+## Tools
+
+- [wg-make](https://github.com/tevino/wg-make) - A tool to help to set up WireGuard based networks. Currently, it generates configurations for peers according to a single configuration file.
 
 ## Contribute
 
